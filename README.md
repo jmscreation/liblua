@@ -3,7 +3,7 @@
 
 
  This library contains the sol2 lua binding found here: https://github.com/ThePhD/sol2
- The sol2 version for this library is **SOL2 3.5.0**
+ The sol2 version for this library is **SOL2 3.3.0**
 
 The compiled static library of Lua was built using Mingw64-MSVCRT and is currently only 64bit.
 The current Lua version for this library is **Lua 5.4.3**
